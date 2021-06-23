@@ -11,6 +11,6 @@ public class Calculation {
 
     public static void main(String[] args) {
         int maximum=findMaximum(new int[]{1,3,4,2});
-        System.out.println("The maximum number is: "+maximum);
+        System.out.println("The maximum number was: "+maximum);
     }
 }
